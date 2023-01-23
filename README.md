@@ -1,5 +1,5 @@
-# Bank Marketing Campaigns Success Prediction
-Data Science project to  predict the success of a bank telemarketing campaigns, the aim is to predict if the client will subscribe to a term deposit.
+# Bank Marketing Campaign Success Analysis and Prediction
+Data Science project to predict the success of a bank telemarketing campaign, the aim is to predict if the client will subscribe to a term deposit.
 
 - performed exploratory data analysis to gather insights on the datasets.
 - provided recommendations to improve the success of future campaigns.
@@ -15,7 +15,7 @@ Data Science project to  predict the success of a bank telemarketing campaigns, 
 - performed Hypothesis testing to test the significance of certain months high performance
 
 ![image](https://user-images.githubusercontent.com/57121852/213601225-53d33388-c831-4462-907d-bd7d0412ddd6.png)  
-### Tableau Dashboard
+### [Tableau Dashboard](https://public.tableau.com/views/BankTelelemarketingSuccessAnalysis/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 ![Dashboard 1](https://user-images.githubusercontent.com/57121852/213937143-2f2a2748-65d3-4525-9a0e-ad629e869957.png)
 
 
